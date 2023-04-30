@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+
+#h1 {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    text-align: center;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: 25pt;
+    color: #000000;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+#p1 {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 15pt;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#p2 {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+    font-style: normal;
+    text-align: center;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 12pt;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#p3 {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+    font-style: normal;
+    text-align: center;
+    background-image: url(url);
+    margin-left: 200px;
+    margin-right: 200px;
+	font-size: 10pt;
+}
+#footer {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+    font-style: normal;
+    text-align: center;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 9pt;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#p1 p .intro_paragraph {
+}
+
+#survey {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+    font-style: normal;
+    font-size: 10pt;
+    text-align: center;
+    font-variant: normal;
+    font-weight: normal;
+    margin-left: 200px;
+    margin-right: 200px;
+	background-color: powderblue
+}
+#li{
+ list-style-type:square;
+ list-style-position:inside;
+ list-style-image:url('custom-bullet.png');
+}
