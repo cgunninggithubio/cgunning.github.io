@@ -70,7 +70,3 @@
  list-style-position:inside;
  list-style-image:url('custom-bullet.png');
 }
-#img {
-	height: auto;
-	max-width: 100%;
-}
